@@ -6,6 +6,9 @@
 
 <li>Перейдите в папку с клонированным репозиторием.</li>
 
+<li>Создайте пустую папку audio(для временных файлов):<br>
+<code>mkdir audio</code></li>
+
 <li>Создайте docker контейнер:<br>
 <code>docker-compose up</code></li>
 
